@@ -61,8 +61,6 @@
 | [Level Up Salon Suite](https://github.com/HappyComit/level-up-salon-suite) | Salon management platform with live deployment, built with a modern TypeScript + component-driven frontend | React, TypeScript, Vite |
 | [Currency Converter](https://github.com/HappyComit/Currency-converter) | Real-time currency conversion app using live exchange rate API | JavaScript |
 
-> 💡 Replace these descriptions with 1 sentence each on **what problem it solves**, not just what it's built with — that's what interviewers actually read.
-
 ---
 
 ### 📊 GitHub Stats
