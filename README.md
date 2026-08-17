@@ -57,9 +57,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [Only Students](https://github.com/HappyComit/Only_student) | Full-stack platform for students — includes push notifications and a dedicated backend, currently nearing launch | React, Node.js |
+| [Level Up Salon Suite](https://github.com/HappyComit/level-up-salon-suite) | Salon management platform with live deployment, built with a modern TypeScript + component-driven frontend | React, TypeScript, Vite |
 | [Currency Converter](https://github.com/HappyComit/Currency-converter) | Real-time currency conversion app using live exchange rate API | JavaScript |
-| [React Mini Project](https://github.com/HappyComit/React-mini-Project) | *(1-line description of what it actually does)* | React |
-| [Freelance Project](https://github.com/HappyComit/Freelance_project) | *(1-line description — client work, what problem it solved)* | JavaScript |
 
 > 💡 Replace these descriptions with 1 sentence each on **what problem it solves**, not just what it's built with — that's what interviewers actually read.
 
